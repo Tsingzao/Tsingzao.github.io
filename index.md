@@ -42,7 +42,7 @@ Ting Liu, Jun Wan, **Tingzhao Yu**, Zhen Lei and Stan Z. Li. Chinese Conference 
 **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition Letters: 2018
 
 ```markdown
-Syntax highlighted code block
-
-[Link](url) and ![Image](https://github.com/Tsingzao/Tsingzao.github.io/blob/master/180.jpg)
+[Link](url) and 
 ```
+
+![Image](https://github.com/Tsingzao/Tsingzao.github.io/blob/master/180.jpg)
