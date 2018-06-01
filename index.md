@@ -1,3 +1,5 @@
+# Tsingzao
+
 ## Welcome to Tsingzao's GitHub Pages
 
 My GoogleSite: [https://sites.google.com/site/tsingzaoyu/](https://sites.google.com/site/tsingzaoyu/)
@@ -8,11 +10,7 @@ My EsciencePage: [http://www.escience.cn/people/yutingzhao/index.html](http://ww
 
 My Sina Blog: [http://blog.sina.com.cn/u/3694941161](http://blog.sina.com.cn/u/3694941161)
 
-My CSDB Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
-
-You can use the [editor on GitHub](https://github.com/Tsingzao/Tsingzao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My CSDN Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
 
 ### Markdown
 
