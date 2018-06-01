@@ -1,5 +1,3 @@
-# Tsingzao
-
 ## Welcome to Tsingzao's GitHub Pages
 
 My GoogleSite: [https://sites.google.com/site/tsingzaoyu/](https://sites.google.com/site/tsingzaoyu/)
