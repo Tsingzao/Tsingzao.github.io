@@ -1,7 +1,5 @@
 ## Welcome to Tsingzao's GitHub Pages
 
-![Image](https://github.com/Tsingzao/Tsingzao.github.io/blob/master/180.jpg)
-
 My GoogleSite: [https://sites.google.com/site/tsingzaoyu/](https://sites.google.com/site/tsingzaoyu/)
 
 My Github: [https://github.com/Tsingzao](https://github.com/Tsingzao)
@@ -42,7 +40,3 @@ Ting Liu, Jun Wan, **Tingzhao Yu**, Zhen Lei and Stan Z. Li. Chinese Conference 
 
 7. Deep Generative Video Prediction.
 **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition Letters: 2018
-
-```markdown
-[Link](url) and 
-```
