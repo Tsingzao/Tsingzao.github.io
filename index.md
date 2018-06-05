@@ -40,3 +40,7 @@ Ting Liu, Jun Wan, **Tingzhao Yu**, Zhen Lei and Stan Z. Li. Chinese Conference 
 
 7. Deep Generative Video Prediction.
 **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition Letters: 2018
+
+8. Self-Paced AutoEncoder.
+**Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Shiming Xiang, Chunhong Pan. IEEE Signal Processing Letters: 2018
+
