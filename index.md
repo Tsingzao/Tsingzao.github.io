@@ -38,9 +38,12 @@ Ting Liu, Jun Wan, **Tingzhao Yu**, Zhen Lei and Stan Z. Li. Chinese Conference 
 6. Semantic Guided Network for Open Domain Action Recognition.
 **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. CVPR 2017 Workshop on Open Domain Action Recognition: ,to appear
 
-7. Deep Generative Video Prediction.
+7. MGN: Multi-Glimpse Network for Action Recognition.
+Chaoxu Guo, **Tingzhao Yu**, Huxiang Gu, Shiming Xiang, Chunhong Pan. ICASSP: 2018 , to apper
+
+8. Deep Generative Video Prediction.
 **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition Letters: 2018
 
-8. Self-Paced AutoEncoder.
+9. Self-Paced AutoEncoder.
 **Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Shiming Xiang, Chunhong Pan. IEEE Signal Processing Letters: 2018
 
