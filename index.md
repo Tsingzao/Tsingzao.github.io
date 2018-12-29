@@ -48,7 +48,7 @@ Chaoxu Guo, **Tingzhao Yu**, Huxiang Gu, Shiming Xiang, Chunhong Pan. ICASSP: 20
 **Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Shiming Xiang, Chunhong Pan. IEEE Signal Processing Letters: 2018
 
 10. Joint Spatial-Temporal Attention for Action Recognition.
-**Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition Letters: 2008
+**Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition Letters: 2018
 
 11. Pseudo Low-Rank Video Representation.
-**Tingzhao Yu**, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition: 2008
+**Tingzhao Yu**, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pattern Recognition: 2019
