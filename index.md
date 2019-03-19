@@ -51,3 +51,6 @@ Pattern Recognition Letters: 2018
 
 11. **Tingzhao Yu**, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pseudo Low-Rank Video Representation.
 Pattern Recognition: 2019
+
+12. **Tingzhao Yu**, Lingfeng Wang, Cheng Da, Huxiang Gu, Shiming Xiang, Chunhong Pan. Weakly Semantic Guided Action Recognition.
+IEEE Transactions on Multimedia: Accept
