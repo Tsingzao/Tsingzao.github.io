@@ -1,5 +1,11 @@
 ## Welcome to Tsingzao-于廷照's GitHub Pages
 
+My Google Scholar: [https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en](https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en)
+
+My DBLP: [https://dblp.org/pers/hd/y/Yu:Tingzhao](https://dblp.org/pers/hd/y/Yu:Tingzhao)
+
+My ResearchGate: [https://www.researchgate.net/profile/Tingzhao_Yu](https://www.researchgate.net/profile/Tingzhao_Yu)
+
 My GoogleSite: [https://sites.google.com/site/tsingzaoyu/](https://sites.google.com/site/tsingzaoyu/)
 
 My Github: [https://github.com/Tsingzao](https://github.com/Tsingzao)
