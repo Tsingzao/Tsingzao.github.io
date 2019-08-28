@@ -12,7 +12,7 @@ My Github: [https://github.com/Tsingzao](https://github.com/Tsingzao)
 
 My EsciencePage: [http://www.escience.cn/people/yutingzhao/index.html](http://www.escience.cn/people/yutingzhao/index.html)
 
-My Sina Blog: [http://blog.sina.com.cn/u/3694941161](http://blog.sina.com.cn/u/3694941161)
+My Sina Blog: [http://blog.sina.com.cn/tsingzao](http://blog.sina.com.cn/tsingzao)
 
 My CSDN Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
 
