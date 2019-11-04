@@ -16,13 +16,17 @@ My Sina Blog: [http://blog.sina.com.cn/tsingzao](http://blog.sina.com.cn/tsingza
 
 My CSDN Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
 
+### Work
+
+2019 年 6 月- 至    今， 中国气象局公共气象服务中心， 工程师 - China Meteorological Administration
+
 ### Education
 
 2009 年 9 月- 2013 年 6 月，中国海洋大学自动化系，本科，自动化 - Ocean University of China
 
 2013 年 9 月- 2016 年 6 月，中国科学院自动化研究所，硕士，计算机技术 - Institute of Automation, Chinese Academy of Sciences
 
-2016 年 6 月- 至    今 ，中国科学院自动化研究所，模式识别国家重点实验室，博士 - Institute of Automation, Chinese Academy of Sciences
+2016 年 9 月- 2016 年 6 月 ，中国科学院自动化研究所，模式识别国家重点实验室，博士 - Institute of Automation, Chinese Academy of Sciences
 
 ### Publications
 
