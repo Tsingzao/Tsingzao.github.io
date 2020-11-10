@@ -1,21 +1,5 @@
 ## Welcome to Tsingzao-于廷照's GitHub Pages
 
-My Google Scholar: [https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en](https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en)
-
-My DBLP: [https://dblp.org/pers/hd/y/Yu:Tingzhao](https://dblp.org/pers/hd/y/Yu:Tingzhao)
-
-My ResearchGate: [https://www.researchgate.net/profile/Tingzhao_Yu](https://www.researchgate.net/profile/Tingzhao_Yu)
-
-My GoogleSite: [https://sites.google.com/site/tsingzaoyu/](https://sites.google.com/site/tsingzaoyu/)
-
-My Github: [https://github.com/Tsingzao](https://github.com/Tsingzao)
-
-My EsciencePage: [http://www.escience.cn/people/yutingzhao/index.html](http://www.escience.cn/people/yutingzhao/index.html)
-
-My Sina Blog: [http://blog.sina.com.cn/tsingzao](http://blog.sina.com.cn/tsingzao)
-
-My CSDN Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
-
 ### Work
 
 2019 年 6 月- 至    今， 中国气象局公共气象服务中心， 工程师 - China Meteorological Administration
@@ -66,3 +50,22 @@ Pattern Recognition: 2019
 IEEE Transactions on Multimedia: Accept
 
 13. Qiuming Kuang, **Tingzhao Yu***(Corresponding Author). Review of Leveraging AI for Exploitation of Satellite Observations. Advances in Meteorological Science and Technology: Accept
+
+### For more details
+
+My Google Scholar: [https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en](https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en)
+
+My DBLP: [https://dblp.org/pers/hd/y/Yu:Tingzhao](https://dblp.org/pers/hd/y/Yu:Tingzhao)
+
+My ResearchGate: [https://www.researchgate.net/profile/Tingzhao_Yu](https://www.researchgate.net/profile/Tingzhao_Yu)
+
+My GoogleSite: [https://sites.google.com/site/tsingzaoyu/](https://sites.google.com/site/tsingzaoyu/)
+
+My Github: [https://github.com/Tsingzao](https://github.com/Tsingzao)
+
+My EsciencePage: [http://www.escience.cn/people/yutingzhao/index.html](http://www.escience.cn/people/yutingzhao/index.html)
+
+My Sina Blog: [http://blog.sina.com.cn/tsingzao](http://blog.sina.com.cn/tsingzao)
+
+My CSDN Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
+
