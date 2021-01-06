@@ -49,7 +49,11 @@ Pattern Recognition: 2019
 12. **Tingzhao Yu**, Lingfeng Wang, Cheng Da, Huxiang Gu, Shiming Xiang, Chunhong Pan. Weakly Semantic Guided Action Recognition.
 IEEE Transactions on Multimedia: Accept
 
-13. Qiuming Kuang, **Tingzhao Yu***(Corresponding Author). Review of Leveraging AI for Exploitation of Satellite Observations. Advances in Meteorological Science and Technology: Accept
+13. Qiuming Kuang, **Tingzhao Yu***(Corresponding Author). Review of Leveraging AI for Exploitation of Satellite Observations. Advances in Meteorological Science and Technology: 2020. 
+
+14. **Tingzhao Yu**, Qiuming Kuang, Junnan Hu, Jiangping Zheng, Xiaoyong Li. Global-Similarity Local-Salience Network for Traffic Weather Recognition. IEEE Access: Accept.
+
+15. **Tingzhao Yu**, Qiuming Kuang, Jiangping Zheng, Junnan Hu. Deep Precipitation Down-scaling. IEEE Geoscience and Remote Sensing Letters: Accept.
 
 ### For more details
 
