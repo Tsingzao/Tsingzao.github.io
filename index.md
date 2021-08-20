@@ -73,3 +73,10 @@ My Sina Blog: [http://blog.sina.com.cn/tsingzao](http://blog.sina.com.cn/tsingza
 
 My CSDN Blog: [https://blog.csdn.net/yutingzhaomeng](https://blog.csdn.net/yutingzhaomeng)
 
+### Projects
+
+1. CMA Public Meteorological Service Center Innovation Foundation (No. K2020006). 2020.01-2020.12. 联合主持：10万元
+
+2. CMA Public Meteorological Service Center Innovation Foundation (No. M2021002). 2021.07-2021.06. 主持：4万元
+
+3. National Natural Science Foundation of China (No. 62106270). 2022.01-2024.12. 主持：24万元
