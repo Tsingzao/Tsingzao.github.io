@@ -63,6 +63,8 @@ IEEE Transactions on Multimedia: Accept
 
 15. **Tingzhao Yu**, Qiuming Kuang, Jiangping Zheng, Junnan Hu. Deep Precipitation Down-scaling. IEEE Geoscience and Remote Sensing Letters: Accept.
 
+16. **Tingzhao Yu**, Qiuming Kuang, Ruyi Yang. ATMConvGRU for weather forecasting. IEEE Geoscience and Remote Sensing Letters: Accept.
+
 ### For more details
 
 My Google Scholar: [https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en](https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en)
