@@ -36,34 +36,31 @@ Chinese Conference on Biometric Recognition, CCBR: 2016 ,vol 9967 ,pp 186-194
 
 5. **Tingzhao Yu**, Huxiang Gu, Lingfeng Wang, Shiming Xiang and Chunhong Pan. Cascaded Temporal Spatial Features for Video Action Recognition. ICIP: 2017 ,to appear
 
-6. **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Semantic Guided Network for Open Domain Action Recognition.
-CVPR 2017 Workshop on Open Domain Action Recognition: ,to appear
-
-7. Chaoxu Guo, **Tingzhao Yu**, Huxiang Gu, Shiming Xiang, Chunhong Pan. MGN: Multi-Glimpse Network for Action Recognition.
+6. Chaoxu Guo, **Tingzhao Yu**, Huxiang Gu, Shiming Xiang, Chunhong Pan. MGN: Multi-Glimpse Network for Action Recognition.
 ICASSP: 2018 , to apper
 
-8. **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Deep Generative Video Prediction.
+7. **Tingzhao Yu**, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Deep Generative Video Prediction.
 Pattern Recognition Letters: 2018
 
-9. **Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Shiming Xiang, Chunhong Pan. Self-Paced AutoEncoder.
+8. **Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Shiming Xiang, Chunhong Pan. Self-Paced AutoEncoder.
 IEEE Signal Processing Letters: 2018
 
-10. **Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Joint Spatial-Temporal Attention for Action Recognition.
+9. **Tingzhao Yu**, Chaoxu Guo, Lingfeng Wang, Huxiang Gu, Shiming Xiang, Chunhong Pan. Joint Spatial-Temporal Attention for Action Recognition.
 Pattern Recognition Letters: 2018
 
-11. **Tingzhao Yu**, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pseudo Low-Rank Video Representation.
+10. **Tingzhao Yu**, Lingfeng Wang, Chaoxu Guo, Huxiang Gu, Shiming Xiang, Chunhong Pan. Pseudo Low-Rank Video Representation.
 Pattern Recognition: 2019
 
-12. **Tingzhao Yu**, Lingfeng Wang, Cheng Da, Huxiang Gu, Shiming Xiang, Chunhong Pan. Weakly Semantic Guided Action Recognition.
+11. **Tingzhao Yu**, Lingfeng Wang, Cheng Da, Huxiang Gu, Shiming Xiang, Chunhong Pan. Weakly Semantic Guided Action Recognition.
 IEEE Transactions on Multimedia: Accept
 
-13. Qiuming Kuang, **Tingzhao Yu***(Corresponding Author). Review of Leveraging AI for Exploitation of Satellite Observations. Advances in Meteorological Science and Technology: 2020. 
+12. Qiuming Kuang, **Tingzhao Yu***(Corresponding Author). Review of Leveraging AI for Exploitation of Satellite Observations. Advances in Meteorological Science and Technology: 2020. 
 
-14. **Tingzhao Yu**, Qiuming Kuang, Junnan Hu, Jiangping Zheng, Xiaoyong Li. Global-Similarity Local-Salience Network for Traffic Weather Recognition. IEEE Access: Accept.
+13. **Tingzhao Yu**, Qiuming Kuang, Junnan Hu, Jiangping Zheng, Xiaoyong Li. Global-Similarity Local-Salience Network for Traffic Weather Recognition. IEEE Access: Accept.
 
-15. **Tingzhao Yu**, Qiuming Kuang, Jiangping Zheng, Junnan Hu. Deep Precipitation Down-scaling. IEEE Geoscience and Remote Sensing Letters: Accept.
+14. **Tingzhao Yu**, Qiuming Kuang, Jiangping Zheng, Junnan Hu. Deep Precipitation Down-scaling. IEEE Geoscience and Remote Sensing Letters: Accept.
 
-16. **Tingzhao Yu**, Qiuming Kuang, Ruyi Yang. ATMConvGRU for weather forecasting. IEEE Geoscience and Remote Sensing Letters: Accept.
+15. **Tingzhao Yu**, Qiuming Kuang, Ruyi Yang. ATMConvGRU for weather forecasting. IEEE Geoscience and Remote Sensing Letters: Accept.
 
 ### For more details
 
