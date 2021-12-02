@@ -18,12 +18,12 @@
 
 2. CMA Public Meteorological Service Center Innovation Foundation (No. M2021002). 2021.07-2021.06. 主持：4万元
 
-3. National Natural Science Foundation of China (No. 62106270). 2022.01-2024.12. 主持：24万元
+3. National Natural Science Foundation of China (No. 62106270). 2022.01-2024.12. 主持：30万元
 
 ### Publications
 
 1. **Tingzhao Yu**, Wensheng Zhang. Research on Boosting theory and application.
-CCF BigData 2015 / 中国科技大学学报: 2016 ,46 / 3 ,222-230 下载全文
+CCF BigData 2015 / 中国科技大学学报: 2016 ,46 / 3 ,222-230
 
 2. **Tingzhao Yu**, Wenrui Hu, Wei Xue, Wensheng Zhang. Color Image Demosaicking via Joint Intra and Inter Channel Information.
 IET Electronics Letters: 2016 ,Vol. 52 No. 8 ,pp. 605–607
