@@ -10,7 +10,7 @@
 
 2013 年 9 月- 2016 年 6 月，中国科学院自动化研究所，硕士，计算机技术 - Institute of Automation, Chinese Academy of Sciences
 
-2016 年 9 月- 2016 年 6 月 ，中国科学院自动化研究所，模式识别国家重点实验室，博士 - Institute of Automation, Chinese Academy of Sciences
+2016 年 9 月- 2019 年 6 月 ，中国科学院自动化研究所，模式识别国家重点实验室，博士 - Institute of Automation, Chinese Academy of Sciences
 
 ### Projects
 
