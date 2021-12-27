@@ -2,7 +2,8 @@
 
 ### Work
 
-2019 年 6 月- 至    今， 中国气象局公共气象服务中心， 工程师 - China Meteorological Administration
+2019 年 6 月 - 2021 年 12 月， 中国气象局公共气象服务中心， 工程师 - China Meteorological Administration
+2021 年 12 月 - 至        今， 中国气象局公共气象服务中心， 高级工程师 - China Meteorological Administration
 
 ### Education
 
