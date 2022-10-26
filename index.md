@@ -68,6 +68,8 @@ IEEE Transactions on Multimedia: Accept
 
 17. Xinbang Zhang, Qizhao Jin, **Tingzhao Yu**, Shiming Xiang, Qiuming Kuang, Véronique Prinet, and Chunhong Pan. Multi-modal spatio-temporal meteorological forecasting with deep neural network. ISPRS Journal of Photogrammetry and Remote Sensing. 2022.
 
+18. **Tingzhao Yu**, Ruyi Yang, Yan Huang, Jinbing Gao, Qiuming Kuang. Terrain Guided Flatten Memory Network for Spatial Wind Downscaling. IEEE journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2022.
+
 ### Patents
 
 1. **于廷照**, 等. 一种构建高铁沿线风速预报模型的方法及装置[P]. CN112801564B. 2021. (国家发明专利)
