@@ -1,4 +1,4 @@
-## Welcome to Tsingzao-于廷照's GitHub Pages
+## Welcome to Tsingzao(于廷照 Tingzhao Yu)'s GitHub Pages
 
 ### Work
 
