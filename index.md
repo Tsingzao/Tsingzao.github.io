@@ -88,6 +88,17 @@ IEEE Transactions on Multimedia: Accept
 8. 一种推送气象服务内容的方法及装置[P]. CN113254789B. 2021. (国家发明专利，排名7/8)
 
 
+### Awards
+
+1. Outstanding Graduates of Shandong Province.
+
+2. National Scholarship (Ministry of Education).
+
+3. Outstanding Investigation Report of CMA.
+
+4. (Young) High-level Talents of CMA.
+
+
 ### For more details
 
 My Google Scholar: [https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en](https://scholar.google.com/citations?user=9SHH0m0AAAAJ&hl=en)
