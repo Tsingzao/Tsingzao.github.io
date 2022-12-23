@@ -68,6 +68,10 @@ IEEE Transactions on Multimedia: Accept
 
 17. Xinbang Zhang, Qizhao Jin, **Tingzhao Yu**, Shiming Xiang, Qiuming Kuang, Véronique Prinet, and Chunhong Pan. Multi-modal spatio-temporal meteorological forecasting with deep neural network. ISPRS Journal of Photogrammetry and Remote Sensing. 2022.
 
+18. 匡秋明; 沈晨凯; **于廷照**; 刘进. 多尺度残差金字塔网络模型三维气象要素降尺度研究. 大气科学学报. 2022.
+
+19. **Tingzhao Yu**, Ruyi Yang, Yan Huang, Jinbing Gao, Qiuming Kuang. Terrain Guided Flatten Memory Network for Deep Spatial Wind Downscaling. IEEE Journal of Selected Topics on Applied Earth Observation and Remote Sensing. 2022.
+
 
 ### Patents
 
