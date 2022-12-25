@@ -72,6 +72,8 @@ IEEE Transactions on Multimedia: Accept
 
 19. **Tingzhao Yu**, Ruyi Yang, Yan Huang, Jinbing Gao, Qiuming Kuang. Terrain Guided Flatten Memory Network for Deep Spatial Wind Downscaling. IEEE Journal of Selected Topics on Applied Earth Observation and Remote Sensing. 2022.
 
+20. Fang Zhang, **Tingzhao YU**, Zhimin Li, Kuoyin Wang, Yu Chen, Yan Huang, Qiuming Kuang. Deep Quantified Visibility Estimation for Traffic Images. Atmosphere. 2022.
+
 
 ### Patents
 
