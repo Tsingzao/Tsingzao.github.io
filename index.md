@@ -74,6 +74,8 @@ IEEE Transactions on Multimedia: Accept
 
 20. Fang Zhang, **Tingzhao Yu***, Zhimin Li, Kuoyin Wang, Yu Chen, Yan Huang, Qiuming Kuang. Deep Quantified Visibility Estimation for Traffic Images. Atmosphere. 2022. (Corresponding Author)
 
+21. Ruijiao Jiang, Guoping Zhang, Shudong Wang, Bing Xue, Zhengshuai Xie, **Tingzhao Yu**, Kuoyin Wang, Jin Ding, Xiaoxiang Zhu. Comparison of two nationwide lightning location systems and characteristics of could-to-ground lightning in China. preprints.
+
 
 ### Patents
 
