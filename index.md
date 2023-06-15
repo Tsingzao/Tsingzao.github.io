@@ -76,6 +76,8 @@ IEEE Transactions on Multimedia: Accept
 
 21. Ruijiao Jiang, Guoping Zhang, Shudong Wang, Bing Xue, Zhengshuai Xie, **Tingzhao Yu**, Kuoyin Wang, Jin Ding, Xiaoxiang Zhu. Comparison of two nationwide lightning location systems and characteristics of could-to-ground lightning in China. preprints.
 
+22. **Tingzhao Yu**, Ruyi Yang. Temporal Dynamic Network with Learnable Coupled Adjacent Matrix for Wind Forecasting. IEEE Geoscience and Remote Sensing Letters: Accept.
+
 
 ### Patents
 
