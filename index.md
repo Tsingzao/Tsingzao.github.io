@@ -22,6 +22,8 @@
 
 3. National Natural Science Foundation of China (No. 62106270). 2022.01-2024.12. 主持：30万元
 
+4. CAMS & China Re CRM·Joint Open Lab on Meteorological Risk and Insurance (2023F016). 2023.07-2024.06. 联合主持：2万元
+
 ### Publications
 
 1. **Tingzhao Yu**, Wensheng Zhang. Research on Boosting theory and application.
