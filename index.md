@@ -130,6 +130,10 @@ IEEE Transactions on Multimedia: Accept
 
 4. (Young) High-level Talents of CMA.
 
+### Contact
+
+Email: tsingzao@hotmail.com
+
 
 ### For more details
 
