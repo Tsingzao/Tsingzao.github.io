@@ -130,6 +130,11 @@ IEEE Transactions on Multimedia: Accept
 
 4. (Young) High-level Talents of CMA.
 
+### Reviewers for
+
+IEEE-TCSVT, IEEE-TMM, IEEE-TCE, IEEE-Access, Pattern Recognition Letters, Applied Sciences, Atmosphere, 
+Signal Image and Video Processing, Neural Processing Letter, NeuroComputing, Multimedia System.
+
 ### Contact
 
 Email: tsingzao@hotmail.com
