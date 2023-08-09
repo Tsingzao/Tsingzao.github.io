@@ -16,13 +16,13 @@
 
 ### Projects
 
-1. CMA Public Meteorological Service Center Innovation Foundation (No. K2020006). 2020.01-2020.12. 联合主持：10万元
+1. CMA Public Meteorological Service Center Innovation Foundation (No. K2020006). 2020.01-2020.12. 联合主持
 
-2. CMA Public Meteorological Service Center Innovation Foundation (No. M2021002). 2021.07-2021.06. 主持：4万元
+2. CMA Public Meteorological Service Center Innovation Foundation (No. M2021002). 2021.07-2021.06. 主持
 
-3. National Natural Science Foundation of China (No. 62106270). 2022.01-2024.12. 主持：30万元
+3. National Natural Science Foundation of China (No. 62106270). 2022.01-2024.12. 主持
 
-4. CAMS & China Re CRM·Joint Open Lab on Meteorological Risk and Insurance (No. 2023F016). 2023.07-2024.06. 联合主持：2万元
+4. CAMS & China Re CRM·Joint Open Lab on Meteorological Risk and Insurance (No. 2023F016). 2023.07-2024.06. 联合主持
 
 ### Publications
 
