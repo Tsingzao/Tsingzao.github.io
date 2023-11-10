@@ -82,6 +82,8 @@ IEEE Transactions on Multimedia: Accept
 
 22. **Tingzhao Yu**, Ruyi Yang. Temporal Dynamic Network with Learnable Coupled Adjacent Matrix for Wind Forecasting. IEEE Geoscience and Remote Sensing Letters: Accept.
 
+23. 杨如意; 张元春; 孙建华; 慕建利; **于廷照**. 二级地形东移MCS影响下游降水的典型个例研究. 大气科学. 2023.
+
 
 ### Patents
 
