@@ -84,6 +84,10 @@ IEEE Transactions on Multimedia: Accept
 
 23. 杨如意; 张元春; 孙建华; 慕建利; **于廷照**. 二级地形东移MCS影响下游降水的典型个例研究. 大气科学. 2023.
 
+24. Ding, Jin; Zhang, Guoping; Wang, Shudong; Xue, Bing; Wang, Kuoyin; **Yu, Tingzhao**; Jiang, Rruijiao; Chen, Yu; Huang, Yan; Li, Zhimin; Yang, Ruyi; Liu, Xiaodan; Tian, Ye. Characteristic Analysis and Short-Impending Prediction of Aircraft Bumpiness over Airport Approach Areas and Flight Routes. Atmosphere 2023
+
+25. Kuoyin Wang, Yan Huang, **Tingzhao Yu** (Corresponding Author), Zhimin Li, Yu Chen, Qiuming Kuang. MAFormer: A new method for radar reflectivity reconstructing from satellite data. Atmosphere. Accept
+
 
 ### Patents
 
