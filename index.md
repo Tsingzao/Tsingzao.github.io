@@ -26,6 +26,8 @@
 
 5. CMA - Joint Research Project for Meteorological Capacity Improvement (No. 23NLTSQ014). 2023.09-2025.08. 主持
 
+6. CMA - The Innovation Development Project. 2023-2025. 主持
+
 ### Publications
 
 1. **Tingzhao Yu**, Wensheng Zhang. Research on Boosting theory and application.
@@ -88,6 +90,12 @@ IEEE Transactions on Multimedia: Accept
 
 25. Kuoyin Wang, Yan Huang, **Tingzhao Yu** (Corresponding Author), Zhimin Li, Yu Chen, Qiuming Kuang. MAFormer: A new method for radar reflectivity reconstructing from satellite data. Atmosphere. Accept
 
+26. 袁彬；**于廷照**；申彦波；莫景越；邓华. 基于人工智能多模式集成的光伏电站总辐射预报方法研究. 太阳能学报
+
+27. Ruyi Yang, Jingyu Hu, Zihao Li, Jianli Mu, **Tingzhao Yu**, Jiangjiang Xia, Xuhong Li, Aritra Dasgupta, Haoyi Xiong. Interpretable Machine Learning for Weather and Climate Prediction: A Survey
+
+28. Ruijiao Jiang, Guoping Zhang, Shudong Wang, Bing Xue, Zhengshuai Xie, **Tingzhao Yu**, Kuoyin Wang, Jin Ding, and Xiaoxiang Zhu. Characteristics of cloud-to-ground lightning (CG) and differences between +CG and −CG strokes in China regarding the China National Lightning Detection Network. Natural Hazards and Earth System Sciences
+
 
 ### Patents
 
@@ -106,6 +114,8 @@ IEEE Transactions on Multimedia: Accept
 7. 一种获取气象服务知识的方法及装置[P]. CN113254473B. 2021. (国家发明专利，排名7/8)
 
 8. 一种推送气象服务内容的方法及装置[P]. CN113254789B. 2021. (国家发明专利，排名7/8)
+
+9. 雷电临近预报方法、装置、电子设备及计算机存储介质[P]. CN117148360B. 2023. (国家发明专利，排名3/7)
 
 
 ### Copyrights
