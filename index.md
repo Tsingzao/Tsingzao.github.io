@@ -90,11 +90,14 @@ IEEE Transactions on Multimedia: Accept
 
 25. Kuoyin Wang, Yan Huang, **Tingzhao Yu** (Corresponding Author), Zhimin Li, Yu Chen, Qiuming Kuang. MAFormer: A new method for radar reflectivity reconstructing from satellite data. Atmosphere. Accept
 
-26. 袁彬；**于廷照**；申彦波；莫景越；邓华. 基于人工智能多模式集成的光伏电站总辐射预报方法研究. 太阳能学报
+26. 袁彬, **于廷照**, 申彦波, 莫景越, 邓华. 基于人工智能多模式集成的光伏电站总辐射预报方法研究. 太阳能学报
 
 27. Ruyi Yang, Jingyu Hu, Zihao Li, Jianli Mu, **Tingzhao Yu**, Jiangjiang Xia, Xuhong Li, Aritra Dasgupta, Haoyi Xiong. Interpretable Machine Learning for Weather and Climate Prediction: A Survey
 
 28. Ruijiao Jiang, Guoping Zhang, Shudong Wang, Bing Xue, Zhengshuai Xie, **Tingzhao Yu**, Kuoyin Wang, Jin Ding, and Xiaoxiang Zhu. Characteristics of cloud-to-ground lightning (CG) and differences between +CG and −CG strokes in China regarding the China National Lightning Detection Network. Natural Hazards and Earth System Sciences
+
+29. Fang Zhang, Jin Ding, Yu Chen, **Tingzhao Yu**, Xinxin Zhang, Jie Guo, Xiaodan Liu, Yan Wang, Qingyang Liu, Yingying Song. Analysis of the Multi-Dimensional Characteristics of City Weather Forecast Page Views and the Spatiotemporal Characteristics of Meteorological Disaster Warnings in China. Atmosphere
+
 
 
 ### Patents
@@ -164,6 +167,8 @@ IEEE Transactions on Multimedia: Accept
 12. Atmosphere
 13. Sensors
 14. International Journal of Machine Learning and Cybernetics
+15. Electronics
+16. IEEE transactions on Emerging Topics in Computational Intelligence
 
 
 ### Contact
