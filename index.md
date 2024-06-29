@@ -169,6 +169,7 @@ IEEE Transactions on Multimedia: Accept
 14. International Journal of Machine Learning and Cybernetics
 15. Electronics
 16. IEEE transactions on Emerging Topics in Computational Intelligence
+17. The Journal of Supercomputing
 
 
 ### Contact
