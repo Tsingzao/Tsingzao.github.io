@@ -1,6 +1,6 @@
 ## Welcome to Tingzhao Yu (于廷照 Tsingzao)'s Homepage
 
-中国气象局公共气象服务中心高级工程师，硕士生导师
+中国气象局公共气象服务中心高级工程师，[硕士生导师](https://graduate.camscma.cn/article/3/1220.html)
 
 ### Work
 
