@@ -157,21 +157,10 @@ IEEE Transactions on Multimedia: Accept
 
 1. IEEE transactions on Circuits and Systems for Video Technology
 2. IEEE transactions on Multimedia
-3. IEEE Access
-4. IEEE transactions on Big Data
-5. IEEE transactions on Consumer Electronics
-6. Pattern Recognition Letters
-7. Applied Sciences
-8. Signal Image and Video Processing
-9. Neural Processing Letter
-10. Neurocomputing
-11. Multimedia System
-12. Atmosphere
-13. Sensors
-14. International Journal of Machine Learning and Cybernetics
-15. Electronics
-16. IEEE transactions on Emerging Topics in Computational Intelligence
-17. The Journal of Supercomputing
+3. IEEE transactions on Big Data
+4. IEEE transactions on Consumer Electronics
+5. IEEE transactions on Emerging Topics in Computational Intelligence
+6. IEEE Access、Applied Sciences、Signal Image and Video Processing、Neural Processing Letter、Neurocomputing、Multimedia System、Atmosphere、Sensors、International Journal of Machine Learning and Cybernetics、Electronics、Pattern Recognition Letters、The Journal of Supercomputing
 
 
 ### Contact
