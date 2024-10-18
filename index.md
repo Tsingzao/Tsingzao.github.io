@@ -108,19 +108,21 @@ IEEE Transactions on Multimedia: Accept
 
 2. **于廷照**, 等. 一种多数值模式集成预报方法及装置[P]. CN113011106B. 2021. (国家发明专利)
 
-3. 一种构建降水等级预测模型的方法及装置[P]. CN112800691B. 2021. (国家发明专利，排名5/6)
+3. **于廷照**, 等. 自适应Transformer风速预报订正方法、装置及设备[P]. 已授权. 2024. (国家发明专利)
 
-4. 一种构建用于风速预测的深度卷积回归网络的方法及装置[P]. CN112990354B. 2021. (国家发明专利，排名5/6)
+4. 一种构建降水等级预测模型的方法及装置[P]. CN112800691B. 2021. (国家发明专利，排名5/6)
 
-5. 一种构建格点风速订正模型的方法及装置[P]. CN113204061B. 2021. (国家发明专利，排名5/6)
+5. 一种构建用于风速预测的深度卷积回归网络的方法及装置[P]. CN112990354B. 2021. (国家发明专利，排名5/6)
 
-6. 一种对站点风速预报结果进行订正的方法及装置[P]. CN113253364B. 2021. (国家发明专利，排名5/6)
+6. 一种构建格点风速订正模型的方法及装置[P]. CN113204061B. 2021. (国家发明专利，排名5/6)
 
-7. 一种获取气象服务知识的方法及装置[P]. CN113254473B. 2021. (国家发明专利，排名7/8)
+7. 一种对站点风速预报结果进行订正的方法及装置[P]. CN113253364B. 2021. (国家发明专利，排名5/6)
 
-8. 一种推送气象服务内容的方法及装置[P]. CN113254789B. 2021. (国家发明专利，排名7/8)
+8. 一种获取气象服务知识的方法及装置[P]. CN113254473B. 2021. (国家发明专利，排名7/8)
 
-9. 雷电临近预报方法、装置、电子设备及计算机存储介质[P]. CN117148360B. 2023. (国家发明专利，排名3/7)
+9. 一种推送气象服务内容的方法及装置[P]. CN113254789B. 2021. (国家发明专利，排名7/8)
+
+10. 雷电临近预报方法、装置、电子设备及计算机存储介质[P]. CN117148360B. 2023. (国家发明专利，排名3/7)
 
 
 ### Copyrights
@@ -160,7 +162,8 @@ IEEE Transactions on Multimedia: Accept
 3. IEEE transactions on Big Data
 4. IEEE transactions on Consumer Electronics
 5. IEEE transactions on Emerging Topics in Computational Intelligence
-6. IEEE Access、Applied Sciences、Signal Image and Video Processing、Neural Processing Letter、Neurocomputing、Multimedia System、Atmosphere、Sensors、International Journal of Machine Learning and Cybernetics、Electronics、Pattern Recognition Letters、The Journal of Supercomputing
+6. Knowledge-Based Systems
+7. IEEE Access、Applied Sciences、Signal Image and Video Processing、Neural Processing Letter、Neurocomputing、Multimedia System、Atmosphere、Sensors、International Journal of Machine Learning and Cybernetics、Electronics、Pattern Recognition Letters、The Journal of Supercomputing
 
 
 ### Contact
